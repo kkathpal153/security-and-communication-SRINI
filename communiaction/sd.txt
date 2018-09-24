@@ -1,0 +1,8 @@
+V	W	2
+W	V	2
+A	B	1
+X	B	3
+A	M	1
+M	X	4
+F	E	2
+B	D	1
